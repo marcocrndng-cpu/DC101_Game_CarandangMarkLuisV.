@@ -1,4 +1,7 @@
 # DC101_Game_CarandangMarkLuisV.
+this is my game it called it mind games, but every time your move is wrong u will grant a more move and u will loss
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
